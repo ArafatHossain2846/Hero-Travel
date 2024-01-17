@@ -11,6 +11,7 @@
    background: #ffffff;
    width: 1440px;
    height: 3900px;
+   
    position: relative;
    overflow: hidden;
  }
@@ -276,11 +277,534 @@
    top: 30px;
    overflow: visible;
  }
-   @media screen and (max-width:576px) {
-     .frame-1, 
-     .images{
-       display: flex;
-       flex-direction: column;
-     }
-     
-   }
+ 
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.our-popular-tours {
+  color: #131318;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 135px;
+  top: 746px;
+}
+.dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 820px;
+  width: 577px;
+}
+.group-14 {
+  width: 525px;
+  height: 188px;
+  position: static;
+}
+.tempus-euismod-lacus-mauris-dignissim-quis-in-ultrices-magna-nullam-odio-neque-diam-sociis-erat-at {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 896px;
+  width: 525px;
+}
+.adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 964px;
+  width: 525px;
+}
+.accumsan-eget-et-turpis-praesent-lorem-egestas-enim-elit-bibendum-risus-at-in {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 1032px;
+  width: 525px;
+}
+.amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-id-bibendum-nunc-senectus-semper-tincidunt {
+  color: #5a5a5d;
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 1108px;
+  width: 530px;
+}
+.rectangle-4 {
+  border-radius: 16px;
+  width: 540px;
+  height: 550px;
+  position: absolute;
+  left: 765px;
+  top: 746px;
+  object-fit: cover;
+}
+.group-82 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-35 {
+  background: #ff5400;
+  border-radius: 8px;
+  width: 174px;
+  height: 52px;
+  position: absolute;
+  left: 135px;
+  top: 1244px;
+}
+.group-72 {
+  width: 105px;
+  height: 25px;
+  position: static;
+}
+.read-more {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 170px;
+  top: 1258px;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.group-18 {
+  width: 643px;
+  height: 126px;
+  position: static;
+}
+.choose-your-destination {
+  color: #131318;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 480px;
+  top: 1396px;
+}
+.dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque2 {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: center;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 398px;
+  top: 1470px;
+  width: 643px;
+}
+.rectangle-5 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 573px;
+  height: 300px;
+  position: absolute;
+  left: 135px;
+  top: 1570px;
+  object-fit: cover;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 673px;
+  height: 300px;
+  position: absolute;
+  left: 632px;
+  top: 2204px;
+  object-fit: cover;
+}
+.rectangle-8 {
+  width: 573px;
+  height: 300px;
+  position: absolute;
+  left: 732px;
+  top: 1570px;
+  overflow: visible;
+  object-fit: cover;
+}
+.rectangle-6 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 374px;
+  height: 286px;
+  position: absolute;
+  left: 135px;
+  top: 1894px;
+  object-fit: cover;
+}
+.rectangle-11 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 473px;
+  height: 300px;
+  position: absolute;
+  left: 135px;
+  top: 2204px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 274px;
+  height: 286px;
+  position: absolute;
+  left: 1031px;
+  top: 1894px;
+  object-fit: cover;
+}
+.rectangle-7 {
+  background: linear-gradient(
+    to left,
+    rgba(19, 19, 24, 0.2),
+    rgba(19, 19, 24, 0.2)
+  );
+  border-radius: 16px;
+  width: 474px;
+  height: 286px;
+  position: absolute;
+  left: 533px;
+  top: 1894px;
+  object-fit: cover;
+}
+.north-america {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 670px;
+  top: 2019px;
+}
+.bangladesh {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 290px;
+  top: 2336px;
+}
+.srilanka {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 265px;
+  top: 2019px;
+}
+.maldives {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 361px;
+  top: 1702px;
+}
+.indonesia {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 952px;
+  top: 1702px;
+}
+.bandarban {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 892px;
+  top: 2336px;
+}
+.kashmir {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  position: absolute;
+  left: 1112px;
+  top: 2019px;
+}
+.group-20 {
+  position: absolute;
+  inset: 0;
+}
+.why-choose-us {
+  color: #131318;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 566px;
+  top: 2604px;
+}
+.dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque3 {
+  color: rgba(19, 19, 24, 0.7);
+  text-align: center;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 398px;
+  top: 2678px;
+  width: 643px;
+}
+
+
+
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-72 {
+  background: rgba(251, 181, 99, 0.05);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(251, 181, 99, 0.2);
+  border-width: 1px;
+  width: 573px;
+  height: 284px;
+  position: absolute;
+  left: 135px;
+  top: 2778px;
+}
+.group-22 {
+  width: 486px;
+  height: 220px;
+  position: static;
+}
+.group-21 {
+  width: 486px;
+  height: 124px;
+  position: static;
+}
+.handpicked-hotels {
+  color: #131318;
+  text-align: center;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 167px;
+  top: 2906px;
+}
+.amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet {
+  color: #5a5a5d;
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 167px;
+  top: 2952px;
+  width: 486px;
+}
+.hotel-1 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 167px;
+  top: 2810px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.group-24 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-73 {
+  background: rgba(41, 206, 246, 0.05);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(41, 206, 246, 0.2);
+  border-width: 1px;
+  width: 573px;
+  height: 284px;
+  position: absolute;
+  left: 732px;
+  top: 2778px;
+}
+.world-class-service {
+  color: #131318;
+  text-align: left;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 764px;
+  top: 2906px;
+}
+.amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet2 {
+  color: #5a5a5d;
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 764px;
+  top: 2952px;
+  width: 486px;
+}
+.group-27 {
+  width: 64px;
+  height: 64px;
+  position: static;
+}
+.map-1 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 764px;
+  top: 2810px;
+  overflow: hidden;
+}
+.group26 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-74 {
+  background: rgba(233, 68, 68, 0.05);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(233, 68, 68, 0.2);
+  border-width: 1px;
+  width: 573px;
+  height: 284px;
+  position: absolute;
+  left: 433px;
+  top: 3086px;
+}
+.best-price-guarantee {
+  color: #131318;
+  text-align: left;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 465px;
+  top: 3214px;
+}
+.amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet3 {
+  color: #5a5a5d;
+  text-align: left;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 465px;
+  top: 3260px;
+  width: 486px;
+}
+.group-26 {
+  width: 64px;
+  height: 64px;
+  position: static;
+}
+.price-tag-1 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 465px;
+  top: 3118px;
+  overflow: hidden;
+}
+.group30 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 99.99%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
