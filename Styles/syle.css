@@ -856,3 +856,11 @@
     transform: translate(-56.01px, -48px);
     overflow: visible;
   }
+  @media screen and (max-width:576px) {
+    .frame-1, 
+    .images{
+      display: flex;
+      flex-direction: column;
+    }
+    
+  }
