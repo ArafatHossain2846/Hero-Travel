@@ -808,3 +808,152 @@
   height: 100%;
   overflow: visible;
 }
+.rectangle-103 {
+  background: rgba(19, 19, 24, 0.05);
+  width: 1440px;
+  height: 502px;
+  position: absolute;
+  left: 0px;
+  top: 3438px;
+}
+.social {
+  height: auto;
+  position: absolute;
+  left: 633px;
+  top: 3687px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-nulla-sit-viverra-morbi-vitae-blandit-orci-potenti-vulputate-leo-erat-maecenas-vitae-elementum-ultricies-nullam {
+  color: #5a5a5d;
+  text-align: center;
+  font-family: "Mulish-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 3603px;
+  width: 769px;
+}
+.group-40072 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 178px;
+  height: 40px;
+  position: static;
+}
+.hero-travel {
+  text-align: left;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  left: calc(50% - 57.33px);
+  top: 3548px;
+}
+.hero-travel-span {
+  color: var(--dark-01, #131318);
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.hero-travel-span2 {
+  color: #ff5400;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.group-40070 {
+  width: 40px;
+  height: 46.67px;
+  position: absolute;
+  left: 646.67px;
+  top: 3588px;
+  transform: translate(-46.67px, -40px);
+  overflow: visible;
+}
+.line-12 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  border-width: 1px 0 0 0;
+  width: 1320px;
+  height: 0px;
+  position: absolute;
+  left: 60px;
+  top: 3688px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: rgba(19, 19, 24, 0.1);
+  border-width: 1px 0 0 0;
+  width: 872px;
+  height: 0px;
+  position: absolute;
+  left: 284px;
+  top: 3761px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+._2017-all-rights-reserved {
+  color: #131318;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  right: 43.4%;
+  left: 43.33%;
+  width: 13.26%;
+  bottom: 1.59%;
+  top: 3800px;
+  height: 0.27%;
+}
+.group-40071 {
+  position: absolute;
+  inset: 0;
+}
+.group-16 {
+  width: 201px;
+  height: 45px;
+  position: static;
+}
+.hero-travel2 {
+  text-align: left;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  position: absolute;
+  left: calc(50% - 512.37px);
+  top: 52px;
+}
+.hero-travel-2-span {
+  color: #131318;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+}
+.hero-travel-2-span2 {
+  color: #ff5400;
+  font-family: "Mulish-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+}
+.group-400702 {
+  width: 48px;
+  height: 56.01px;
+  position: absolute;
+  left: 191.01px;
+  top: 98px;
+  transform: translate(-56.01px, -48px);
+  overflow: visible;
+}
+@media screen and (max-width:576px) {
+  .frame-1, 
+  .images{
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
