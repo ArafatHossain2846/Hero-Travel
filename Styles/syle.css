@@ -1,6 +1,6 @@
  
  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap');
- *{
+*{
     font-family: 'Mulish', sans-serif;
  }
  
@@ -68,11 +68,7 @@
     object-fit: cover;
   }
   .rectangle-2 {
-    background: linear-gradient(
-      180deg,
-      rgba(19, 19, 24, 0.8) 0%,
-      rgba(19, 19, 24, 0) 100%
-    );
+    background: linear-gradient(180deg,rgba(19, 19, 24, 0.8) 0%,rgba(19, 19, 24, 0) 100%);
     border-radius: 16px;
     width: 1170px;
     height: 500px;
@@ -158,7 +154,7 @@
     height: 52px;
     position: static;
   }
-  .rectangle-4 {
+  .rectangle-111 {
     background: #ffffff;
     border-radius: 8px;
     width: 174px;
@@ -191,7 +187,7 @@
     height: 52px;
     position: static;
   }
-  .rectangle-5 {
+  .rectangle-112 {
     background: #ffffff;
     border-radius: 8px;
     width: 174px;
@@ -224,7 +220,7 @@
     height: 52px;
     position: static;
   }
-  .rectangle-6 {
+  .rectangle-113 {
     background: #ff5400;
     border-radius: 8px;
     width: 174px;
@@ -255,13 +251,6 @@
     top: 30px;
     overflow: visible;
   }
-
-
-
-
-
-
-  
   .group-11 {
     position: absolute;
     inset: 0;
@@ -269,7 +258,6 @@
   .our-popular-tours {
     color: #131318;
     text-align: center;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 40px;
     font-weight: 800;
     position: absolute;
@@ -279,7 +267,6 @@
   .dolor-2{
     color: rgba(19, 19, 24, 0.7);
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -296,7 +283,6 @@
   .text-1{
     color: rgba(19, 19, 24, 0.7);
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -308,7 +294,6 @@
   .text-2{
     color: rgba(19, 19, 24, 0.7);
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -320,7 +305,6 @@
   .text-3{
     color: rgba(19, 19, 24, 0.7);
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -332,7 +316,6 @@
   .text-4{
     color: #5a5a5d;
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -371,7 +354,6 @@
   .read-more {
     color: #ffffff;
     text-align: center;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 20px;
     font-weight: 800;
     position: absolute;
@@ -390,17 +372,15 @@
   .choose-your-destination {
     color: #131318;
     text-align: center;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 40px;
     font-weight: 800;
     position: absolute;
     left: 480px;
     top: 1396px;
   }
-  .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque2 {
+  .dolor-21{
     color: rgba(19, 19, 24, 0.7);
     text-align: center;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -409,16 +389,8 @@
     top: 1470px;
     width: 643px;
   }
-
-
-
-
   .rectangle-5 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
-    );
+    background: linear-gradient(left, rgba(19, 19, 24, 0.2), rgba(19, 19, 24, 0.2));
     border-radius: 16px;
     width: 573px;
     height: 300px;
@@ -428,11 +400,7 @@
     object-fit: cover;
   }
   .rectangle-10 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
-    );
+    background: linear-gradient(left, rgba(19, 19, 24, 0.2), rgba(19, 19, 24, 0.2));
     border-radius: 16px;
     width: 673px;
     height: 300px;
@@ -451,11 +419,7 @@
     object-fit: cover;
   }
   .rectangle-6 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
-    );
+    background: linear-gradient(left,rgba(19, 19, 24, 0.2),  rgba(19, 19, 24, 0.2));
     border-radius: 16px;
     width: 374px;
     height: 286px;
@@ -465,11 +429,7 @@
     object-fit: cover;
   }
   .rectangle-11 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
-    );
+    background: linear-gradient(left, rgba(19, 19, 24, 0.2), rgba(19, 19, 24, 0.2));
     border-radius: 16px;
     width: 473px;
     height: 300px;
@@ -479,11 +439,7 @@
     object-fit: cover;
   }
   .rectangle-9 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
-    );
+    background: linear-gradient(left rgba(19, 19, 24, 0.2), rgba(19, 19, 24, 0.2));
     border-radius: 16px;
     width: 274px;
     height: 286px;
@@ -493,10 +449,7 @@
     object-fit: cover;
   }
   .rectangle-7 {
-    background: linear-gradient(
-      to left,
-      rgba(19, 19, 24, 0.2),
-      rgba(19, 19, 24, 0.2)
+    background: linear-gradient(left, rgba(19, 19, 24, 0.2), rgba(19, 19, 24, 0.2)
     );
     border-radius: 16px;
     width: 474px;
@@ -505,6 +458,69 @@
     left: 533px;
     top: 1894px;
     object-fit: cover;
+  }
+  .north-america {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 670px;
+    top: 2019px;
+  }
+  .bangladesh {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 290px;
+    top: 2336px;
+  }
+  .srilanka {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 265px;
+    top: 2019px;
+  }
+  .maldives {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 361px;
+    top: 1702px;
+  }
+  .indonesia {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 952px;
+    top: 1702px;
+  }
+  .bandarban {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 892px;
+    top: 2336px;
+  }
+  .kashmir {
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+    left: 1112px;
+    top: 2019px;
   }
 
 
@@ -515,17 +531,15 @@
   .why-choose-us {
     color: #131318;
     text-align: center;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 40px;
     font-weight: 800;
     position: absolute;
     left: 566px;
     top: 2604px;
   }
-  .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque3 {
+  .dolor-3 {
     color: rgba(19, 19, 24, 0.7);
     text-align: center;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -534,9 +548,6 @@
     top: 2678px;
     width: 643px;
   }
-
-
-
   .group-23 {
     position: absolute;
     inset: 0;
@@ -566,17 +577,15 @@
   .handpicked-hotels {
     color: #131318;
     text-align: center;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 24px;
     font-weight: 800;
     position: absolute;
     left: 167px;
     top: 2906px;
   }
-  .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet {
+  .text-5{
     color: #5a5a5d;
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -623,17 +632,15 @@
   .world-class-service {
     color: #131318;
     text-align: left;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 24px;
     font-weight: 800;
     position: absolute;
     left: 764px;
     top: 2906px;
   }
-  .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet2 {
+  .text-6{
     color: #5a5a5d;
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -685,17 +692,15 @@
   .best-price-guarantee {
     color: #131318;
     text-align: left;
-    font-family: "Mulish-ExtraBold", sans-serif;
     font-size: 24px;
     font-weight: 800;
     position: absolute;
     left: 465px;
     top: 3214px;
   }
-  .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet3 {
+  .text-7{
     color: #5a5a5d;
     text-align: left;
-    font-family: "Mulish-Regular", sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
@@ -728,9 +733,126 @@
     height: 100%;
     overflow: visible;
   }
-  
+  .rectangle-103 {
+    background: rgba(19, 19, 24, 0.05);
+    width: 1440px;
+    height: 502px;
+    position: absolute;
+    left: 0px;
+    top: 3438px;
+  }
+  .social {
+    height: auto;
+    position: absolute;
+    left: 638px;
+    top: 3687px;
+    overflow: visible;
+    background: rgba(19, 19, 24, 0.05);
+  }
+  .text-8{
+    color: #5a5a5d;
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    position: absolute;
+    left: 335px;
+    top: 3603px;
+    width: 769px;
+  }
+  .group-40072 {
+    position: absolute;
+    inset: 0;
+  }
+  .group-1 {
+    width: 178px;
+    height: 40px;
+    position: static;
+  }
+  .hero-travel {
+    text-align: left;
+    font-size: 32px;
+    font-weight: 800;
+    position: absolute;
+    left: calc(50% - 57.33px);
+    top: 3548px;
+  }
+  .hero-travel-span {
+    color: var(--dark-01, #131318);
+    font-size: 32px;
+    font-weight: 800;
+  }
+  .hero-travel-span2 {
+    color: #ff5400;
 
+    font-size: 32px;
+    font-weight: 800;
+  }
+  .group-40070 {
+    width: 40px;
+    height: 46.67px;
+    position: absolute;
+    left: 636.67px;
+    top: 3588px;
+    transform: translate(-46.67px, -40px);
+    overflow: visible;
+  }
+  .line-12 {
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.15);
+    border-width: 1px 0 0 0;
+    width: 1320px;
+    height: 0px;
+    position: absolute;
+    left: 60px;
+    top: 3688px;
+  }
+  .line-2 {
+    border-style: solid;
+    border-color: rgba(19, 19, 24, 0.1);
+    border-width: 1px 0 0 0;
+    width: 872px;
+    height: 0px;
+    position: absolute;
+    left: 284px;
+    top: 3761px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+  }
 
-
-
-  
+  .group-40071 {
+    position: absolute;
+    inset: 0;
+  }
+  .group-16 {
+    width: 201px;
+    height: 45px;
+    position: static;
+  }
+  .hero-travel2 {
+    text-align: left;
+    font-size: 36px;
+    font-weight: 800;
+    position: absolute;
+    left: calc(50% - 512.37px);
+    top: 52px;
+  }
+  .hero-travel-2-span {
+    color: #131318;
+    font-size: 36px;
+    font-weight: 800;
+  }
+  .hero-travel-2-span2 {
+    color: #ff5400;
+    font-size: 36px;
+    font-weight: 800;
+  }
+  .group-400702 {
+    width: 48px;
+    height: 56.01px;
+    position: absolute;
+    left: 188.01px;
+    top: 98px;
+    transform: translate(-56.01px, -48px);
+    overflow: visible;
+  }
